@@ -1,0 +1,25 @@
+body {
+  font-family: "Arial", sans-serif;
+}
+
+#game {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.hand {
+  display: inline-block;
+  margin: 0 10px;
+}
+
+#message {
+  margin-top: 20px;
+  font-size: 18px;
+}
+
+button {
+  margin-top: 20px;
+  padding: 10px;
+  font-size: 16px;
+  cursor: pointer;
+}
